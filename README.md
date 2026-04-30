@@ -19,39 +19,51 @@ Make sure you have **Python 3.x** installed.
 
 Install the required libraries:
 
-```bash
-pip install SpeechRecognition
-pip install pipwin
-pipwin install pyaudio
+pip install SpeechRecognition  
+pip install pipwin  
+pipwin install pyaudio  
 
-## **📂 Project Structure**
+---
 
-speech-to-text/
-│── main.py
-│── README.md
+## 📂 **Project Structure**
 
-## **▶️ How to Run**
-Open Command Prompt or VS Code terminal
-Navigate to your project folder
+speech-to-text/  
+│── main.py  
+│── README.md  
 
-## **Run the program:**
-python main.py
-Speak into your microphone when prompted
-The recognized text will be displayed
+---
 
-##** ⚠️ Notes**
+## ▶️ **How to Run**
 
-Ensure your microphone is properly connected 🎤
-Speak clearly for better accuracy
-Internet connection is required
+- Open **Command Prompt** or **VS Code terminal**  
+- Navigate to your project folder  
 
-## **🚀 Future Improvements**
+**Run the program:**
 
-Add GUI using Tkinter
-Convert text to speech
-Build a voice assistant
-Integrate with Flask web app
+python main.py  
 
-##**📜 License**
+- Speak into your microphone when prompted  
+- The recognized text will be displayed  
+
+---
+
+## ⚠️ **Notes**
+
+- Ensure your microphone is properly connected 🎤  
+- Speak clearly for better accuracy  
+- Internet connection is required  
+
+---
+
+## 🚀 **Future Improvements**
+
+- Add GUI using Tkinter  
+- Convert text to speech  
+- Build a voice assistant  
+- Integrate with Flask web app  
+
+---
+
+## 📜 **License**
 
 This project is free to use for learning and development purposes.
