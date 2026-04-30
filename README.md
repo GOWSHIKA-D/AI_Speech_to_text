@@ -1,4 +1,4 @@
-🎤 Speech to Text Converter (Python)
+**🎤 Speech to Text Converter (Python)**
 
 This is a simple Python project that converts spoken voice into text using a microphone. It uses the SpeechRecognition library and Google’s speech recognition API.
 
